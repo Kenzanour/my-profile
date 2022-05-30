@@ -1,0 +1,71 @@
+/* Colors and fonts */
+
+
+body{ 
+ background-color: #EFEAD8;
+ color: rgb(30, 30, 30);
+ font-family: Courier;
+ font-size: 16px;
+
+}
+
+h1,h2,h3 {
+	font-family: 'Tiro Bangla', serif;
+}
+
+h1 {
+	color: #F55353;
+    font-weight: 100;
+    letter-spacing: 10px;
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+h2 {
+	color: #D82148;
+	font-size: 40px;
+	font-weight: lighter;
+
+}
+
+a {
+	text-decoration: none;
+	color: #FFA8A8;
+}
+a:hover {
+	color: #F55353;
+}
+
+/* Custom design with class*/
+.container {
+	background-color: #e0d4c0;
+    padding: 50px;
+    margin: 50px;
+    box-shadow: 0px 10px 30px;
+}
+
+.card-white {
+	background-color: #e0d4c0;
+    padding: 50px;
+    margin: 50px;
+    box-shadow: 0px 10px 30px;
+}
+
+.img-circle {
+	background-color: #e0d4c0;
+    padding: 50px;
+    margin: 50px;
+    box-shadow: 0px 10px 30px;
+}
+
+.btn-blue {
+	background-color: #e0d4c0;
+    padding: 50px;
+    margin: 50px;
+    box-shadow: 0px 10px 30px;
+}
+
+
+
+
+
